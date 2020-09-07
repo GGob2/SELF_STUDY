@@ -5,7 +5,7 @@ public class Main {
         return n1 + n2;
     }
     public static double minus(double n1, double n2){
-        return n1 -n2;
+        return n1 - n2;
     }
     public static void main(String[] args) {
 	    double n1 = 123;
